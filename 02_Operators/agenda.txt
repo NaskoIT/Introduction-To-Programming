@@ -1,0 +1,29 @@
+10-15 мин изпитване
+типове данни
+demo с типове
+компилиране, пъллним код
+konstanti?
+IDE - преговор
+какво е main
+именуване на промеливи
+pascal case
+camel case
+snake case
+кпк - качествен код
+b = b - a
+• balance = balance – withdrawn_amount
+• balance = balance – withdrawnAmount
+char-трикчета - ascii
+signed, unsigned
+аритметични операции, +=, ...
+операции за сравнение
+префикс, постфикс
+/ int - целочислени числа
+implicit cast, explicit cast
+bool → char → short → int → long → float → double
+• unsigned char → unsigned short → unsigned int → unsigned long
+
+2. Решаване на задачи
+   1.  
+   2. Обръщане на четирицифрено число
+
