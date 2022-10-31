@@ -1,0 +1,11 @@
+Какво е функция?
+Предимства на функциите?
+Видеве функции?
+Сигнатура на функция?
+Function Scope
+Call stack и подаване на параметрите на функция (by value, by reference)
+
+Demo
+Pure function?
+function composition
+рекурсия
