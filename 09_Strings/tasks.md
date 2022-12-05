@@ -49,15 +49,16 @@
     ```c++
     #include<iostream>
     #include<vector>
+    #include<string>
 
     using namespace std;
 
     const int MAX_WORD_LENGTH = 100;
-    void split(char* str, char delimiter, vector<char[MAX_WORD_LENGTH]>& parts) {
+    void split(char* str, char delimiter, vector<string>& parts) {
 
     }
     int main() {
-        vector<char[MAX_WORD_LENGTH]> container;
+        vector<string> container;
         split("My name is Nasko", ' ', container);
         for (int i = 0; i < container.size(); ++i) {
             cout << i << ". " << container[i] << endl;
